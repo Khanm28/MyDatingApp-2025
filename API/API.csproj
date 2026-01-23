@@ -25,6 +25,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="client\src\core\" />
+    <Folder Include="client\src\features\" />
+    <Folder Include="client\src\layout\" />
+    <Folder Include="client\src\shared\" />
     <Folder Include="DTOs\" />
     <Folder Include="Extensions\" />
     <Folder Include="Interfaces\" />
